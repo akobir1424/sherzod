@@ -1,0 +1,103 @@
+.logo {
+  display: flex;
+}
+.logo h2 {
+  color: #173a56;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 28px;
+  margin-left: 16px;
+}
+nav {
+  display: flex;
+  align-items: center;
+  /* border: 1px solid #000; */
+}
+ul {
+  /* border: 1px solid #000; */
+  align-items: center;
+  display: flex;
+  margin-left: 146px;
+}
+.header-btn {
+  align-items: center;
+  margin-left: 24px;
+}
+li {
+  list-style: none;
+  margin-left: 24px;
+}
+li a {
+  font-size: 16px;
+  text-decoration: none;
+  color: #000;
+}
+
+a h2 {
+  margin-left: 213px;
+}
+.two {
+  margin-left: 24px;
+  border-radius: 4px;
+  border: none;
+  background: #02897a;
+  color: #fff;
+}
+.header-btn button {
+  width: 110px;
+  height: 43px;
+  font-size: 16px;
+  cursor: pointer;
+}
+.first {
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #bcd0e5;
+}
+.header-btn img {
+  margin-left: 28px;
+  margin-bottom: -8px;
+}
+.header-hero_text {
+  margin-left: 185px;
+  margin-top: 120px;
+}
+.header-hero {
+  display: flex;
+  margin-top: 24px;
+}
+.header-hero_text p {
+  margin-top: 18px;
+}
+
+.header-hero_btn {
+  margin-top: 45px;
+  align-items: center;
+}
+.header-hero_btn button {
+  width: 180px;
+  height: 53px;
+  cursor: pointer;
+}
+.ikki {
+  border: none;
+  background-color: #fff;
+}
+.ikki a{
+  color: #02897a;
+}
+.ikki img{
+  margin-bottom: -5px;
+  margin-left: 9px;
+}
+.bir{
+  border: none;
+  border-radius: 4px;
+background: #02897A;
+  color: #FFF;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}

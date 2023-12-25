@@ -1,0 +1,149 @@
+.title {
+  text-align: center;
+}
+.first-container {
+  margin-top: 115px;
+}
+.list {
+  /* border: 1px solid #000; */
+  width: 240px;
+  margin-left: 46px;
+}
+.for-You {
+  display: flex;
+  margin-top: 58px;
+}
+.it {
+  margin-left: 190px;
+}
+.btn button {
+  text-align: center;
+  width: 175px;
+  height: 53px;
+  border-radius: 4px;
+  background: #02897a;
+  color: white;
+  cursor: pointer;
+}
+.btn {
+  text-align: center;
+  margin-top: 60px;
+}
+
+.content h1 {
+  margin-top: 130px;
+  text-align: center;
+}
+.content p {
+  text-align: center;
+}
+.step {
+  margin-top: 33px;
+  margin-left: 32px;
+  border: 1px solid gray;
+  border-radius: 8px;
+}
+.st {
+  margin-left: 190px;
+}
+p {
+  margin-left: 24px;
+}
+h2 {
+  margin-left: 24px;
+}
+.positeve {
+  display: flex;
+}
+.color {
+  color: #02897a;
+}
+.price {
+  margin-top: 118px;
+}
+.flex {
+  display: flex;
+}
+.title-prc {
+  text-align: center;
+}
+.free {
+  box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.25);
+  width: 323px;
+  text-align: center;
+  margin-left: 71px;
+  border-radius: 8px;
+  margin-top: 74px;
+}
+.fr {
+  margin-left: 190px;
+}
+.free button {
+  width: 139px;
+  height: 44px;
+  border: none;
+  background-color: #02897a;
+  border-radius: 8px;
+  color: white;
+  font-size: 16px;
+  margin-bottom: 32px;
+  cursor: pointer;
+}
+.bg {
+  background: #02897a;
+  color: white;
+}
+.bg button {
+  background-color: white;
+  color: #02897a;
+  cursor: pointer;
+}
+
+.slients-title {
+  text-align: center;
+}
+.clients {
+  margin-top: 150px;
+}
+.person {
+  display: flex;
+  align-items: center;
+  margin-left: 26px;
+  /* margin-top: 26px; */
+}
+.stars {
+  margin-left: 64px;
+  width: 327px;
+  height: 236px;
+  border-radius: 5px;
+  border: 1px solid #dedede;
+  margin-top: 50px;
+}
+.stars p {
+  margin-left: -1px;
+  margin-left: 26px;
+  margin-top: 26px;
+  color: #737373;
+}
+
+.mr {
+  margin-top: 16px;
+}
+.star {
+  margin-left: 26px;
+  margin-top: 26px;
+}
+.person h3 {
+  margin-left: 14px;
+  color: #02897a;
+}
+span {
+  margin-top: 40px;
+  margin-left: -85px;
+}
+.fl{
+  display: flex;
+}
+.chap{
+  margin-left: 190px;
+}
